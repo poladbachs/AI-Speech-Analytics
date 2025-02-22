@@ -1,0 +1,6 @@
+whisper
+spacy
+nltk
+pandas
+streamlit
+numpy
