@@ -2,6 +2,9 @@ openai-whisper
 spacy
 nltk
 textblob
+transformers
+sumy
 pandas
 streamlit
 numpy
+torch
