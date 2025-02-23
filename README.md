@@ -1,7 +1,7 @@
-# 🏆 Spitch AI Speech Analytics Dashboard
+# 🏆 Spitch AI Speech Analytics System
 
 ## 🚀 Overview
-**Spitch AI Speech Analytics Dashboard** is a practical demo project tailored for Spitch AI. It processes call audio data to provide actionable insights through:
+**Spitch AI Speech Analytics System** is a practical demo project tailored for Spitch AI. It processes call audio data to provide actionable insights through:
 
 - **Accurate Transcription:** Converts uploaded audio files into text.
 - **Extractive Summarization:** Uses a controlled TextRank algorithm to extract key sentences directly from the transcription.
