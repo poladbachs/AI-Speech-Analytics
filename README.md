@@ -1,7 +1,8 @@
-# 🏆 Spitch AI Speech Analytics System
+# AI Speech Analytics System
+![Image](https://github.com/user-attachments/assets/35d80d63-ecd6-47cf-9451-60a4ee3e3aed)
 
 ## 🚀 Overview
-**Spitch AI Speech Analytics System** is a practical demo project tailored for Spitch AI. It processes call audio data to provide actionable insights through:
+**AI Speech Analytics System** is a practical demo project tailored for a Swiss company Spitch AI. It processes call audio data to provide actionable insights through:
 
 - **Accurate Transcription:** Converts uploaded audio files into text.
 - **Extractive Summarization:** Uses a controlled TextRank algorithm to extract key sentences directly from the transcription.
@@ -61,8 +62,8 @@ This project demonstrates end-to-end capabilities—from speech-to-text conversi
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/spitch-ai-speech-analytics.git
-cd spitch-ai-speech-analytics
+git clone https://github.com/YourUsername/ai-speech-analytics.git
+cd ai-speech-analytics
 
 # Install dependencies
 pip install -r requirements.txt
