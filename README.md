@@ -57,21 +57,6 @@ This project demonstrates end-to-end capabilities—from speech-to-text conversi
 
 ---
 
-## 🎯 Why This Project is a Perfect Fit for Spitch AI
-
-- **Demonstrates Practical AI Integration:**  
-  - Showcases end-to-end processing from audio to actionable insights.
-- **Company-Specific Relevance:**  
-  - Tailored for Spitch AI’s solutions in call centers and conversational analytics.
-- **Robust and Reliable:**  
-  - Uses extractive summarization to ensure summaries are faithful and avoid hallucination.
-- **Scalable & Customizable:**  
-  - Designed to handle both short and long audio inputs with minimal adjustments.
-- **Tech Stack Proficiency:**  
-  - Leverages Python, NLP libraries, and Streamlit to build a production-ready demo.
-
----
-
 ## 🔧 Setup & Installation
 
 ```bash
